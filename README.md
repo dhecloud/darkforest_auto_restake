@@ -15,7 +15,7 @@ This repository assumes all tokens are all already approved. This repository doe
 2. `pip install web3`
 
 # Setting Up
-1. `git clone git@github.com:dhecloud/`
+1. `git clone git@github.com:dhecloud/darkforest_auto_restake.git`
 2. `cd darkforest_auto_restake`
 3. Modify/change the `config.py` parameters using your text editor to include your unicorn numbers
 4. After setting up, run `nohup python restake_unicorns.py &` for the python script to run in the background. Alternatively, you can use `screen` instead of the `nohup`. Depends on your preference.
